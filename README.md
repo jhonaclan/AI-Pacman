@@ -3,6 +3,8 @@ This collection features Pac-Man projects inspired by UC Berkeley's introductory
 
 **Project 1: Search**
 
-**Project 2: MultiAgent**
+**Project 2: Logic**
 
-**Project 3: Markov Decision Processes & Reinforcement Learning**
+**Project 3: Multiagent Search**
+
+**Project 4: Markov Decision Processes & Reinforcement Learning**
